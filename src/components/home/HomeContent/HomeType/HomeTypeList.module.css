@@ -1,0 +1,20 @@
+.container_list {
+  width: 15rem;
+  height: 15rem;
+}
+.img_type {
+  border-top-left-radius: 1rem;
+  border-top-right-radius: 1rem;
+  height: 75%;
+  width: 100%;
+  object-fit: cover;
+
+  margin-bottom: 0.5rem;
+}
+.text_type {
+  color: var(--darkgray-color);
+}
+.text_type p:first-child {
+  font-size: 1.4rem;
+  font-weight: bold;
+}

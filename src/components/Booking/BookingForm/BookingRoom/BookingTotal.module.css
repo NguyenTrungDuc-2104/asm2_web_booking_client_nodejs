@@ -1,0 +1,33 @@
+.container_total {
+  margin-bottom: 5rem;
+}
+.container_total > h2 {
+  margin-bottom: 1rem;
+}
+
+.content_total > select {
+  height: 2.5rem;
+  width: 18rem;
+  font-size: 1rem;
+  background-color: var(--lightgray-color);
+
+  border-radius: 0.2rem;
+  margin-right: 5rem;
+}
+.content_total > select:focus {
+  outline: none;
+}
+.content_total > input {
+  display: none;
+}
+.content_total > button {
+  text-decoration: none;
+  background-color: var(--primary-color);
+  color: var(--light-color);
+  font-size: 1.1rem;
+  padding: 0.8rem 2rem;
+  cursor: pointer;
+
+  border-radius: 0.2rem;
+  border: none;
+}

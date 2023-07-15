@@ -1,0 +1,20 @@
+.container {
+  background-color: #fcc419;
+  padding: 1rem;
+
+  border-radius: 10px;
+}
+.container h2 {
+  margin-bottom: 1rem;
+  color: #495057;
+}
+
+.btn {
+  width: 100%;
+  font-size: 1rem;
+  padding: 0.5rem 0;
+  background-color: var(--primary-color);
+  color: var(--light-color);
+  border: none;
+  cursor: pointer;
+}

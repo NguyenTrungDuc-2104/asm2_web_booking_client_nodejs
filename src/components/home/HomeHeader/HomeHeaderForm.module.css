@@ -1,0 +1,31 @@
+.form input {
+  border: none;
+  font-size: 1.1rem;
+  width: 17rem;
+}
+
+.form input:focus {
+  outline: 0;
+}
+.search_btn {
+  text-decoration: none;
+  color: var(--light-color);
+  background-color: var(--primary-color);
+  border: none;
+  padding: 0.3rem 0.5rem;
+
+  cursor: pointer;
+}
+
+.search_btn:hover {
+  opacity: 0.8;
+}
+
+.icon {
+  color: #495057dd;
+  font-size: 1rem;
+  margin-right: 0.2rem;
+}
+.loaderSearch {
+  margin-left: 1.5rem;
+}

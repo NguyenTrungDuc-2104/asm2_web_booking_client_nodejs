@@ -1,0 +1,37 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 0;
+  margin-bottom: 1rem;
+}
+
+.link {
+  text-decoration: none;
+  color: var(--light-color);
+
+  font-size: 2.8rem;
+}
+
+.btn {
+  display: flex;
+  gap: 15px;
+  align-items: center;
+}
+.btn > p {
+  color: var(--light-color);
+  font-size: 1.5rem;
+  font-style: italic;
+}
+.btn > a {
+  font-size: 1.2rem;
+  color: var(--primary-color);
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+  background-color: var(--gray-color);
+  border-radius: 2rem;
+}
+.btn > a:hover {
+  transform: scale(1.1);
+  opacity: 0.8;
+}

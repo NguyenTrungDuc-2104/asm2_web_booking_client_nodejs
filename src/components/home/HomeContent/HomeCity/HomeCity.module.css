@@ -1,0 +1,31 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+}
+
+.content {
+  width: 20rem;
+  height: 15rem;
+
+  position: relative;
+}
+.content img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+
+  border-radius: 0.5rem;
+}
+
+.text {
+  position: absolute;
+  bottom: 2rem;
+  left: 2rem;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: var(--light-color);
+}
+.text p:first-child {
+  font-size: 2rem;
+}

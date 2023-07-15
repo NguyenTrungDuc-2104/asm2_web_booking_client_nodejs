@@ -1,0 +1,11 @@
+.contanier {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+
+  margin-bottom: 2rem;
+}
+.img {
+  max-width: 100%;
+  height: auto;
+}

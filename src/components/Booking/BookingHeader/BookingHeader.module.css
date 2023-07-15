@@ -1,0 +1,23 @@
+.container_booking_header {
+  margin: 2rem 0;
+}
+.container_booking_header > h1 {
+  margin-bottom: 1rem;
+}
+.content_boooking_header {
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+  gap: 5rem;
+}
+.content_boooking_header > p {
+  font-size: 1.1rem;
+}
+.booking_header_card {
+  text-align: center;
+  width: 45rem;
+  padding: 1rem;
+  background-color: #b2f2bb;
+
+  font-size: 1.5rem;
+}

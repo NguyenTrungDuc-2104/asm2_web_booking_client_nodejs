@@ -1,0 +1,6 @@
+.content p {
+  margin-bottom: 1rem;
+}
+.content p:last-child {
+  margin-bottom: 0;
+}

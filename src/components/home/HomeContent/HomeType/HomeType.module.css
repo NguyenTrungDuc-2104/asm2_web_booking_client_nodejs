@@ -1,0 +1,9 @@
+.container_type h1 {
+  margin-bottom: 2rem;
+}
+.content_type {
+  display: flex;
+  gap: 1rem;
+
+  margin-bottom: 2rem;
+}

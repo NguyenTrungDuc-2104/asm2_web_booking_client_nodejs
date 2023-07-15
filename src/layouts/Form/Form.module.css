@@ -1,0 +1,12 @@
+.form__container {
+  max-width: 1000px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 3.5rem;
+}
+.form__text {
+  color: #fff;
+}
+.form__text p {
+  margin: 2rem 0 1.5rem 0;
+}

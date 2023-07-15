@@ -1,0 +1,24 @@
+.container {
+  background-color: #b2f2bb;
+  padding: 1rem;
+  text-align: center;
+}
+.content {
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+}
+.content span {
+  font-weight: bold;
+}
+.link {
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+
+  color: var(--light-color);
+  background-color: var(--primary-color);
+
+  border-radius: 0.2rem;
+}
+.link:hover {
+  opacity: 0.8;
+}

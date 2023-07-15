@@ -1,0 +1,6 @@
+.container_dateInfo {
+  display: flex;
+  gap: 4rem;
+
+  margin: 2rem 0;
+}

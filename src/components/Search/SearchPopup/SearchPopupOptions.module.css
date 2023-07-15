@@ -1,0 +1,22 @@
+.container p {
+  font-weight: 600;
+}
+.form {
+  margin: 0 1rem 2rem 1rem;
+}
+.form__content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 1.5rem 0;
+}
+.form__content label {
+  color: #495057;
+}
+.form__content input {
+  width: 3rem;
+  height: 1.5rem;
+}
+.form__content input:focus {
+  outline: none;
+}

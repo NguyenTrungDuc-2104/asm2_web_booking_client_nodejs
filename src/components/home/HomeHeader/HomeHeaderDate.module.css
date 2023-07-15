@@ -1,0 +1,29 @@
+.inputBox {
+  border: none;
+  font-size: 1.1rem;
+  width: 15rem;
+  color: #495057dd;
+}
+.inputBox :focus {
+  outline: 0;
+}
+
+.container {
+  display: inline-block;
+  position: relative;
+}
+
+.date {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-65%, 20%);
+  border: 1px solid #ccc;
+
+  box-shadow: 0 0 8px 2px #00000025;
+}
+.icon {
+  color: #495057dd;
+  font-size: 1rem;
+  margin-right: 0.2rem;
+}

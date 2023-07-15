@@ -1,0 +1,6 @@
+.container {
+  margin: 3rem auto;
+  display: flex;
+  align-items: flex-start;
+  gap: 30px;
+}

@@ -1,0 +1,21 @@
+.container {
+  height: 22rem;
+  display: flex;
+  gap: 20px;
+  padding: 0.5rem;
+  border: 2px solid #dee2e6;
+  border-radius: 10px;
+}
+.content_img {
+  width: 22rem;
+}
+.img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+.content {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}

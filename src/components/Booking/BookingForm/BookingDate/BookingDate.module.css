@@ -1,0 +1,6 @@
+.container_date > h2 {
+  margin-bottom: 1rem;
+}
+.container_date > input {
+  display: none;
+}

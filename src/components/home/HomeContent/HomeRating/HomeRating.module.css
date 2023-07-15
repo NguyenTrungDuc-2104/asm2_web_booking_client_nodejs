@@ -1,0 +1,10 @@
+.container_rating {
+  margin-bottom: 5rem;
+}
+.container_rating h1 {
+  margin-bottom: 3rem;
+}
+.content_rating {
+  display: flex;
+  justify-content: space-between;
+}

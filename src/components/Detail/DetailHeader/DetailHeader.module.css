@@ -1,0 +1,29 @@
+.content {
+  margin: 2rem 0;
+}
+.content h2 {
+  margin-bottom: 1rem;
+}
+.address {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+  font-size: 1rem;
+  font-weight: 500;
+  margin-bottom: 1rem;
+}
+
+.distance {
+  color: var(--primary-color);
+  margin-bottom: 1rem;
+}
+.price {
+  color: #2b8a3e;
+}
+
+.content > p {
+  font-weight: 600;
+}
+.btn {
+  border-radius: 5px;
+}

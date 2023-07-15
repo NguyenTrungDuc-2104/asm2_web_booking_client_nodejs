@@ -1,0 +1,26 @@
+.container {
+  position: relative;
+  z-index: -1;
+}
+.img {
+  width: 100%;
+  height: auto;
+
+  border-radius: 5%;
+}
+.text {
+  color: #fff;
+
+  position: absolute;
+  bottom: 15%;
+  left: 7%;
+}
+.text p:first-child {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.text p:last-child {
+  font-size: 1.5rem;
+  font-weight: 700;
+}

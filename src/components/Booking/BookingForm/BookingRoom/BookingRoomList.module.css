@@ -1,0 +1,33 @@
+.container_room_list {
+  margin-bottom: 1rem;
+}
+.container_room_list > h3 {
+  margin-bottom: 0.5rem;
+}
+.content_room_list {
+  display: flex;
+  gap: 1.5rem;
+
+  font-size: 1.1rem;
+}
+.content_room_text > p:first-child {
+  color: var(--darkgray-color);
+}
+.content_room_text > p:nth-child(2) {
+  font-size: 1rem;
+}
+.content_room_input {
+  display: flex;
+  gap: 0.5rem;
+}
+.content_room_checkbox {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+.content_room_checkbox > input {
+  height: 1rem;
+}
+.content_room_checkbox > label {
+  color: var(--darkgray-color);
+}

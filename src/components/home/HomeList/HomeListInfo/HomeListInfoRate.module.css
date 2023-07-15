@@ -1,0 +1,9 @@
+.container {
+  display: flex;
+}
+.container p:first-child {
+  padding: 0.2rem;
+  margin-right: 0.5rem;
+  background-color: #1864ab;
+  color: #fff;
+}
