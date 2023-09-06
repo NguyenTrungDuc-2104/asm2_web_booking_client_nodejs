@@ -9,3 +9,9 @@ II. Chức năng của project
 - Tìm kiếm khách sạn phù hợp
 - Xem thông tin khách sạn và đặt phòng
 - Xem các giao dịch đã thực hiện
+
+III.Hướng dẫn
+1. Download source code
+2. Trong cửa sổ terminal chạy lệnh npm install để cài các package cần thiết
+3. Thiết lập file env:
+   - REACT_APP_API_URL=https://web-booking-server.onrender.com
