@@ -5,9 +5,12 @@ I. Giới thiệu project
 - Link demon: https://main--serene-lolly-59fe03.netlify.app/login
 
 II. Chức năng của project
-- Hiển thị thông tin khách sạn
+- Hiển thị số lượng khách sạn từng khu vực
+- Hiển thị số lượng từng loại khách sạn
+- Top 3 khách sạn có rating cao nhất
 - Tìm kiếm khách sạn phù hợp
-- Xem thông tin khách sạn và đặt phòng
+- Xem thông tin khách sạn
+- Đặt phòng
 - Xem các giao dịch đã thực hiện
 
 III.Hướng dẫn
